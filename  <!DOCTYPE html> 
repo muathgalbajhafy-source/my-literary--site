@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+  <meta charset="UTF-8">
+  <title>مشروعي الأدبي</title> <!-- يظهر في شريط المتصفح -->
+  <style>
+    body {
+      font-family: Tahoma, sans-serif;
+      background-color: #f5f5f5;
+      margin: 0;
+      padding: 0;
+      line-height: 1.8;
+      color: #333;
+    }
+    header {
+      background-color: #3a1c71;
+      color: #fff;
+      text-align: center;
+      padding: 40px 20px;
+    }
+    header h1 {
+      margin: 0;
+      font-size: 36px;
+    }
+    header p {
+      font-size: 18px;
+      margin-top: 10px;
+    }
+    section {
+      max-width: 800px;
+      margin: 30px auto;
+      background-color: #fff;
+      padding: 30px;
+      border-radius: 12px;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+    }
+    h2 {
+      color: #3a1c71;
+      margin-bottom: 20px;
+    }
+    p {
+      font-size: 18px;
+    }
+    footer {
+      background-color: #3a1c71;
+      color: #fff;
+      text-align: center;
+      padding: 20px;
+      margin-top: 30px;
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>مشروعي الأدبي</h1> <!-- يظهر داخل الصفحة -->
+  <p>صفحة تعريفية بسيطة للمشروع</p>
+</header>
+
+<section>
+  <h2>حول المشروع</h2>
+  <p>
+    هذا المشروع يهدف إلى تقديم محتوى قيم ومميز في المجال المختار، مع التركيز على الجودة والوضوح وسهولة الوصول للمستخدمين.
+  </p>
+
+  <h2>أهداف المشروع</h2>
+  <p>
+    1. توصيل المعلومات بشكل مبسط وفعال.<br>
+    2. تطوير تجربة المستخدم وتسهيل التفاعل.<br>
+    3. تقديم محتوى موثوق وجذاب للزائر.
+  </p>
+
+  <h2>كيفية الاستخدام</h2>
+  <p>
+    يمكن للمستخدمين تصفح الأقسام المختلفة، قراءة المحتوى، والمشاركة بالملاحظات بسهولة.
+  </p>
+</section>
+
+<footer>
+  &copy; 2025 جميع الحقوق محفوظة
+</footer>
+
+</body>
+</html>
